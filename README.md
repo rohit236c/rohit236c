@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **iOS projects.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rohshar6](https://github.com/rohshar6)
+- 👨‍💻 All of my projects are available at [rohshar6](https://rohshar6.github.io/)
 
 - 💬 Ask me about **iOS, macOS and vanilla JavaScript** .
 
